@@ -126,6 +126,4 @@ My long-term goal is to become a versatile software developer capable of designi
   </a>
 </p>
 
-<p align="center">
- ![Profile Views](https://komarev.com/ghpvc/?username=nazicenn&color=00FF9C&style=flat-square)
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=nazicenn&color=00FF9C&style=flat-square)
