@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-00FF9C?style=for-the-badge&labelColor=10151D" alt="Focus" />
   <img src="https://img.shields.io/badge/Development-Full--Stack-00FF9C?style=for-the-badge&labelColor=10151D" alt="Development" />
   <img src="https://img.shields.io/badge/Interests-Open%20Source-00FF9C?style=for-the-badge&labelColor=10151D" alt="Open Source" />
-  <img src="https://komarev.com/ghpvc/?username=nazicenn&color=00FF9C&style=flat-square" alt="Profile Views" />
 </p>
 
 A Computer Programming student interested in software engineering, developer tools, and open-source development.
@@ -124,4 +123,6 @@ My long-term goal is to become a versatile software developer capable of designi
     <img src="https://img.shields.io/badge/GitHub-nazicenn-00FF9C?style=for-the-badge&logo=github&logoColor=black&labelColor=10151D" alt="GitHub profile" />
   </a>
 </p>
+
+  <img src="https://komarev.com/ghpvc/?username=nazicenn&color=00FF9C&style=flat-square" alt="Profile Views" />
 
