@@ -112,7 +112,6 @@ I believe good software is not just code that works. It is code that can be unde
 # About Me
 
 **Naz İçen**  
-Computer Programming Student
 
 I'm continuing to develop my skills through hands-on software development, technical experimentation, and independent learning. I'm interested in exploring different areas of software engineering before specializing in a particular field.
 
