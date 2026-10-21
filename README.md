@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Interests-Open%20Source-00FF9C?style=for-the-badge&labelColor=10151D" alt="Open Source" />
 </p>
 
-A Computer Programming student interested in software engineering, developer tools, and open-source development.
+İnterested in software engineering, developer tools, and open-source development.
 
 My current focus is C# and .NET, with an interest in application architecture, backend systems, and full-stack development. I enjoy understanding how systems work under the hood and turning ideas into practical, maintainable software.
 
